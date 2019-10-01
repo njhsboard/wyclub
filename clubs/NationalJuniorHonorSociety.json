@@ -5,13 +5,43 @@
   "officers": [
     {
       "position": "President",
-      "name": "Sabrina Sawyer"
+      "name": "Dylan Chhay"
     
     },
     {
-      "position": "Advisor",
-      "name": "Angelina Myers"
-    }
+      "position": "Vice President",
+      "name": "Grant Halvorsen"
+      
+    },
+    {
+      "position": "Secretary",
+      "name": "Joyce Lin"
+    
+    },
+    {
+      "position": "Membership",
+      "name": "Angela Henle"
+      
+    },
+    {
+      "position": "Activities",
+      "name": "Isabel Velazquez"
+      
+    },
+    {
+      "position": "Service",
+      "name": "Sunny Lee"
+      
+    },
+    {
+      "position": "Service",
+      "name": "Evan Burleigh"
+      
+    },
+    {
+      "position": "Fundraising",
+      "name": "Mae O'Malley"
+           
   ],
   "announcements": [
     {
